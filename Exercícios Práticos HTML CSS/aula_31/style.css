@@ -1,0 +1,59 @@
+.p1{
+    background-color: aquamarine;
+}
+
+.p2{
+    background-color: blue;
+}
+
+.p3{
+    background-color: blueviolet;
+}
+
+.p4{
+    background-color: blue;
+}
+
+.p5{
+    background-color: bisque;
+}
+
+.p7{
+    background-color: green;
+}
+
+.p8{
+    background-color: greenyellow;
+}
+
+.t1{
+    color: rgb(67, 177, 17);
+}
+
+.t2{
+    color: rgb(221, 70, 24);
+}
+
+.pr1{
+    color: rgb(97, 47, 189);
+}
+
+.pr2{
+    color: rgb(160, 28, 74);
+}
+
+.t2{
+    background-color: rgb(160, 28, 74);
+}
+
+.t3{
+    background-color: #ff6347;
+}
+
+.t4{
+    background-color: hsl(9, 75%, 29%);
+}
+
+.t5{
+    background-color: rgba(255, 99, 71, 0.5); /*opacidade*/
+}

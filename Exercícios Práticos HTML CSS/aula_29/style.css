@@ -1,0 +1,21 @@
+*{
+    /*Esse * aplica-se a todos da classe significa seletor geral*/
+    font-size: 50px;
+}
+
+h1{
+    color: blue;
+}
+
+#paragrafo{
+    color: orange;
+}
+
+.titulo{
+    color: green;
+}
+
+/*seletor agrupado*/
+h1, h2, h3{
+    color: pink;
+}

@@ -1,0 +1,60 @@
+PARA TEXTOS ALEATORIOS: https://www.lipsum.com/
+
+Tags aula 2:
+<strong></strong> qse negrito
+<i></i> subrinhado
+<p></p> paragrafo
+<br> quebra de linha
+<hr> coloca linha
+<small></small> diminui fonte
+<sub></sub> sublinha
+<em></em> enfatiza algo
+<sub></sub> coloca algo em cima tipo exponeciacao
+<sup></sup> coloca algo embaixo
+<del></del>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lista</title>
+        <meta charset="UTF-8"> 
+    </head>
+    <body>
+        
+    </body>
+</html>
+
+<!--Listas nao ordenadas-->
+        <ul>
+            <li>item1</li>
+            <li>item2</li>
+            <li>item3</li>
+        </ul>
+
+        <!--Listas Ordenadas-->
+        <ol>
+            <!--Itens das Listas <li>-->
+            <li></li>
+        </ol>
+
+*****tabelas linhas th tr coluna
+<table>
+            <tr>
+                <!--linha-->
+                <th>PESSOA 1</th>
+                <th>PESSOA 2</th>
+                <th>PESSOA 3</th>
+            </tr>
+            <tr>
+                <!--coluna-->
+                <td>Jose</td>
+                <td>Tobias</td>
+                <td>Joana</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>14</td>
+                <td>20</td>
+
+            </tr>
+        </table>
